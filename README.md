@@ -1,4 +1,4 @@
-# i-order
+# order-food app
 
 ## Project setup
 ```

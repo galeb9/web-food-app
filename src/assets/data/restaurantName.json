@@ -1,0 +1,199 @@
+{
+    "food": {
+        "pizza" : [
+            { 
+                "name": "Rimska 4 siri", 
+                "price": "10.30", 
+                "description": "Rimsko testo, pelati, mozzarella, gorgonzola, cheddar, parmezan, origano", 
+                "ingredients": ["mleko"], 
+                "img": "4siri.png" 
+            },
+            { 
+                "name": "Rimska Pršut", 
+                "price": "11.30", 
+                "description": "Rimsko testo, pelati, mozzarella, pršut, rukola, češnjev paradižnik, parmezan, origano", 
+                "ingredients": ["mleko", "oreščki"], 
+                "img": "prsut_rimska.png" 
+            },
+            { 
+                "name": "Rimska Margerita", 
+                "price": "10.30", 
+                "description": "Rimsko testo, pelati, mozzarella, češnjev paradižnik, parmezan, pesto, origano", 
+                "ingredients": ["mleko"], 
+                "img": "margerita_rimska.png" 
+            }
+        ],
+        "burgers" : [
+            { 
+                "name": "Blackadder Burger", 
+                "price": "7.60", 
+                "description": "Black Angus beef patty, pancetta, fig sauce & aged English Cheddar cheese. All served in activated charcoal bun.", 
+                "ingredients": ["Beef"], 
+                "img": "burgerTest1.png" 
+            },
+            { 
+                "name": "Beyond Burger", 
+                "price": "8.90", 
+                "description": "Beyond patty, vegan mayo, vegan cheddar, lettuce, ketchup, tomato, red onion. Served in durum bun", 
+                "ingredients": ["vegan"], 
+                "img": "burgerTest2.png" 
+            }
+        ],
+        "fish" : [],
+        "chicken" : [],
+        "beef" : [],
+        "vegetables" : [],
+        "dessert" : []
+    },
+    "drinks": {
+        "cocktail" : [],
+        "beer" : [],
+        "wine" : [],
+        "hot" : [
+            { 
+                "name": "LEDENA KAVA", 
+                "price": "7.1", 
+                "description": "Kava, sladoled, smetana", 
+                "ingredients": ["ice"], 
+                "img": "" 
+            },
+            { 
+                "name": "LEDENA KAVA S ČOKOLADO", 
+                "price": "7.2", 
+                "description": "Kava, sladoled, smetana, čokoladni preliv", 
+                "ingredients": ["ice", "coffe"], 
+                "img": "" 
+            },
+            { 
+                "name": "LEDENA KAVA BAILEYS", 
+                "price": "7.9", 
+                "description": "Kava, sladoled, smetana, Baileys", 
+                "ingredients": ["ice", "coffe"], 
+                "img": "" 
+            },
+            { 
+                "name": "NUTCOFFE", 
+                "price": "7.3", 
+                "description": "Kava, lešnikov sladoled, smetana, mleti lešniki", 
+                "ingredients": ["ice", "coffe"], 
+                "img": "" 
+            },
+            { 
+                "name": "CAPCARAMEL", 
+                "price": "6.5", 
+                "description": "Espresso kava, mleko, vanilija sladoled, karamela, tekoča smetana", 
+                "ingredients": ["ice", "coffe"], 
+                "img": "" 
+            },
+            { 
+                "name": "AFFOGATO", 
+                "price": "3.3", 
+                "description": "Espresso, vanilijev sladoled", 
+                "ingredients": ["ice", "coffe"], 
+                "img": "" 
+            },
+            { 
+                "name": "COLD BREW", 
+                "price": "3.8", 
+                "description": "Cold brew", 
+                "ingredients": ["ice", "coffe"], 
+                "img": "" 
+            },
+            { 
+                "name": "COLD BREW Z MLEKOM", 
+                "price": "4.3", 
+                "description": "Cold brew with milk / con latte", 
+                "ingredients": ["ice", "coffe"], 
+                "img": "" 
+            },
+            { 
+                "name": "CREAMY", 
+                "price": "4.4", 
+                "description": "Cold brew, tekoča smetana", 
+                "ingredients": ["ice", "coffe"], 
+                "img": "" 
+            }
+        ],
+        "juice" : [
+            { 
+                "name": "VERDOUS", 
+                "price": "4.6", 
+                "description": "Kumara, limeta, limetin sok, limetin sirup", 
+                "ingredients": ["limonada"], 
+                "img": "" 
+            },
+            { 
+                "name": "YOUTHFUL", 
+                "price": "4.6", 
+                "description": "Ingver, meta, limonin sok, medeni sirup", 
+                "ingredients": ["limonada"], 
+                "img": "" 
+            },
+            { 
+                "name": "PINK", 
+                "price": "4.6", 
+                "description": "Grenivkin sok, limonin sok, grenadina", 
+                "ingredients": ["limonada"], 
+                "img": "" 
+            },
+            { 
+                "name": "BLUSH", 
+                "price": "4.6", 
+                "description": "Jagode, limona, limonin sok, jagodni sirup", 
+                "ingredients": ["limonada"], 
+                "img": "" 
+            },
+            { 
+                "name": "FLOWER", 
+                "price": "4.9", 
+                "description": "Limonin sok, bezgov sirup, sladkorni sirup, kumara, soda", 
+                "ingredients": ["limonada"], 
+                "img": "" 
+            }
+        ],
+        "other" : [
+            { 
+                "name": "VITAMIN", 
+                "price": "3.3", 
+                "description": "Limona, limeta, pomaranča, voda", 
+                "ingredients": ["water"], 
+                "img": "" 
+            },
+            { 
+                "name": "MINT", 
+                "price": "3.3", 
+                "description": "Meta, limona, voda", 
+                "ingredients": ["water"], 
+                "img": "" 
+            },
+            { 
+                "name": "FRESH", 
+                "price": "3.3", 
+                "description": "Ananas, meta, voda", 
+                "ingredients": ["water"], 
+                "img": "" 
+            },
+            { 
+                "name": "KIWI", 
+                "price": "3.3", 
+                "description": "Kivi, jagode, voda", 
+                "ingredients": ["water"], 
+                "img": "" 
+            },
+            { 
+                "name": "DETOX", 
+                "price": "3.3", 
+                "description": "Kumara, limona, voda", 
+                "ingredients": ["water"], 
+                "img": "" 
+            },
+            { 
+                "name": "RED", 
+                "price": "3.3", 
+                "description": "Jagode, limona, voda", 
+                "ingredients": ["water"], 
+                "img": "" 
+            }
+        ]
+    }
+}

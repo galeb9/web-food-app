@@ -1,0 +1,25 @@
+// fade-in
+.fade-in-enter-active,
+.fade-in-leave-active {
+transition: opacity .3s ease-in;
+}
+.fade-in-enter-from,
+.fade-in-leave-to {
+opacity: 0;
+}
+
+// move-from-bottom
+.move-from-bottom-enter-active{
+    animation: move-from-bottom .3s ease-in-out 
+}
+.move-from-bottom-leave-active {
+    animation: move-from-bottom .3s ease-in-out reverse
+}
+@keyframes move-from-bottom {
+    from{
+        transform: translateY(100%);
+    }
+    to{
+        transform: translateY(0);
+    }
+}

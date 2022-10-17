@@ -1,0 +1,158 @@
+{
+    "Posebna ponudba": {
+        "LIMONADE+": [
+            {
+                "Ime": "VERDOUS+",
+                "Sestavine": "Kumara, limeta, limetin sok, limetin sirup",
+                "Cena": "4.6"
+            },
+            {
+                "Ime": "YOUTHFUL+",
+                "Sestavine": "Ingver, meta, limonin sok, medeni sirup",
+                "Cena": "4.6"
+            },
+            {
+                "Ime": "PINK+",
+                "Sestavine": "Grenivkin sok, limonin sok, grenadina",
+                "Cena": "4.6"
+            },
+            {
+                "Ime": "BLUSH+",
+                "Sestavine": "Jagode, limona, limonin sok, jagodni sirup",
+                "Cena": "4.6"
+            },
+            {
+                "Ime": "FLOWER+",
+                "Sestavine": "Limonin sok, bezgov sirup, sladkorni sirup, kumara, soda",
+                "Cena": "4.9"
+            }
+        ],
+        "VODA+": [
+            {
+                "Ime": "VITAMIN+",
+                "Sestavine": "Limona, limeta, pomaranča, voda",
+                "Cena": "3.3"
+            },
+            {
+                "Ime": "MINT+",
+                "Sestavine": "Meta, limona, voda",
+                "Cena": "3.3"
+            },
+            {
+                "Ime": "FRESH+",
+                "Sestavine": "Ananas, meta, voda",
+                "Cena": "3.3"
+            },
+            {
+                "Ime": "KIWI+",
+                "Sestavine": "Kivi, jagode, voda",
+                "Cena": "3.3"
+            },
+            {
+                "Ime": "DETOX+",
+                "Sestavine": "Kumara, limona, voda",
+                "Cena": "3.3"
+            },
+            {
+                "Ime": "RED+",
+                "Sestavine": "Jagode, limona, voda",
+                "Cena": "3.3"
+            }
+        ],
+        "ICE COFFEE": [
+            {
+                "Ime": "LEDENA KAVA",
+                "Sestavine": "Kava, sladoled, smetana",
+                "Cena": "7.1"
+            },
+            {
+                "Ime": "LEDENA KAVA S ČOKOLADO",
+                "Sestavine": "Kava, sladoled, smetana, čokoladni preliv",
+                "Cena": "7.2"
+            },
+            {
+                "Ime": "LEDENA KAVA BAILEYS",
+                "Sestavine": "Kava, sladoled, smetana, Baileys",
+                "Cena": "7.9"
+            },
+            {
+                "Ime": "NUTCOFFE",
+                "Sestavine": "Kava, lešnikov sladoled, smetana, mleti lešniki",
+                "Cena": "7.3"
+            },
+            {
+                "Ime": "CAPCARAMEL",
+                "Sestavine": "Espresso kava, mleko, vanilija sladoled, karamela, tekoča smetana",
+                "Cena": "6.5"
+            },
+            {
+                "Ime": "AFFOGATO",
+                "Sestavine": "Espresso, vanilijev sladoled",
+                "Cena": "3.3"
+            },
+            {
+                "Ime": "COLD BREW",
+                "Sestavine": "Cold brew",
+                "Cena": "3.8"
+            },
+            {
+                "Ime": "COLD BREW Z MLEKOM",
+                "Sestavine": "Cold brew with milk / con latte",
+                "Cena": "4.3"
+            },
+            {
+                "Ime": "CREAMY",
+                "Sestavine": "Cold brew, tekoča smetana",
+                "Cena": "4.4"
+            }
+        ],
+        "100% NARAVNI SOKOVI & SMOOTHIJI": [],
+        "LEDENI ČAJI": []
+    },
+    "SLADOLED": {
+        "SLADOLEDNI OKUSI": [],
+        "KUPE": [],
+        "SLADOLEDNI NAPITKI": []
+    },
+    "TORTE": {
+        "TORTE": []
+    },
+    "HRANA": {
+        "SENDVIČI": [],
+        "TRAMEZINI": [],
+        "BRIOŠ SENDVIČI": []
+    },
+    "KAVE IN TOPLI NAPITKI": {
+        "KAVE": [],
+        "TOPLI NAPITKI": [],
+        "CACAO SIGNATURE HOT DRINKS": [],
+        "VROČE ČOKOLADE": [],
+        "ČAJI": []
+    },
+    "BREZALKOHOLNE PIJAČE": {
+        "VODE": []
+    },
+    "ALKOHOLNE PIJAČE": {
+        "SVEŽA RDEČA VINA": [],
+        "SVEŽA BELA VINA": [],
+        "PENEČA VINA": [],
+        "CHAMPAGNE": [],
+        "SPIRITS": [],
+        "VODKA": [],
+        "WHISKEY": [],
+        "COGNAC": [],
+        "RUM": [],
+        "GRENČICE ": [],
+        "GIN": [],
+        "PIVO": []
+    }
+    ,
+    "COCKTAILI": {
+        "SHORT & TO THE POINT": [],
+        "LONG & FRESH": [],
+        "SUMMER FRESH COCKTAILS": [],
+        "BUBBLES": [],
+        "SPRITZ": [],
+        "BREZ ALKOHOLNI": []
+    }
+}

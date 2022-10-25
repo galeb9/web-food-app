@@ -1,29 +1,13 @@
-# order-food app
+# Web Food App
+
+Front end app idea for ordering food. You can choose between different catogories for food and drinks.
 
 ## Project live
 ```
 https://order-food-app-f84eb.web.app/welcome
 ```
 
-## Project setup
-```
-npm install
-```
+## What I learned
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Vue.js (Vue 3) 
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
